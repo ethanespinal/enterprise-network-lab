@@ -79,7 +79,7 @@ Building and troubleshooting the network helped me understand how traffic travel
 
 ## Try it
 
-1. Download `enterprise-network.pkt` and open it in Cisco Packet Tracer.
+1. Download `enterprise_network_project.pkt` and open it in Cisco Packet Tracer.
 2. Select Realtime mode and allow routing and gateway protocols to settle.
 3. From a PC, ping `192.168.70.10`.
 4. Open `http://intranet.example.com` in the PC’s browser.
